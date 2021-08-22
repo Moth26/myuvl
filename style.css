@@ -1,0 +1,21 @@
+body {
+    background-color: yellow;
+    font-family: fantasy;
+}
+header{
+    background: lightblue;
+    padding: 10px;
+    text-align: center;
+}
+.link-header{
+    text-decoration: none;
+    font-size: 30px;
+}
+h1{
+    text-align: center ;
+}
+h1:hover{
+    color:deepskyblue ;
+    text-shadow: 5px 5px 1px gray;
+    transition:1s ease-in;
+}
